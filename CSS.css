@@ -1,0 +1,21 @@
+body{
+	background-color: #bbe1fa;
+	font-size: 1.2em;
+}
+hr{
+	color: grey;
+	border-style: dotted none none;
+	max-width: 60px;
+	border-width: 5px;
+	clear: both;
+	margin: 40px auto;
+}
+h1 , h2{
+	color: #0f4c75;
+}
+.header{
+	margin: auto 10px;
+	background-color: #3282b8;
+	padding: 10;
+}
+
